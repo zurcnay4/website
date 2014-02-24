@@ -1,0 +1,19 @@
+{
+    "username": "ayan.cruz@sfdc.dev", 
+    "environment": "production", 
+    "project_name": "website", 
+    "workspace": "/Users/ayancruz/Documents/workspace/mavensmate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "0MOFEMX712MSH4ORIL4MWUB7JOXIE80P", 
+    "metadata_container": "1dc900000008vlhAAA", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
